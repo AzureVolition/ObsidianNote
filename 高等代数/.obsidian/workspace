@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1c2bbd74b3100e90",
+        "id": "70170a84588fdffd",
         "type": "leaf",
         "active": true,
         "state": {
@@ -14,10 +14,10 @@
             "mode": "source"
           }
         },
-        "group": "8c7aa4f7a29eaa8c"
+        "group": "9eb3cc92da2db9d9"
       },
       {
-        "id": "44ae0e5f7f30fa6e",
+        "id": "45fb638f45dcba21",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -26,7 +26,7 @@
             "mode": "preview"
           }
         },
-        "group": "8c7aa4f7a29eaa8c"
+        "group": "9eb3cc92da2db9d9"
       }
     ],
     "direction": "vertical"
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "4a0ed11b039e0b99",
@@ -91,8 +92,8 @@
   "lastOpenFiles": [
     "线性空间/线性子空间.md",
     "线性空间/线性空间.md",
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
     "线性空间/Untitled.md"
   ]
 }

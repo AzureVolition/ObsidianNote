@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5c43e3758ffc6511",
+        "id": "52bf079bfc929553",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20210618140118.png"
+          }
         }
       }
     ],
@@ -37,7 +38,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -60,7 +66,16 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20210618140118.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -70,5 +85,14 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "active": "52bf079bfc929553",
+  "lastOpenFiles": [
+    "Pasted image 20210618140118.png",
+    "vector/无序向量.md",
+    "无序向量.md",
+    "Pasted image 20210615155529.png",
+    "Pasted image 20210615154734.png",
+    "Untitled.md",
+    "Untitled/Untitled.md"
+  ]
 }

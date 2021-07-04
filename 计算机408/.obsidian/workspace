@@ -1,43 +1,45 @@
 {
   "main": {
-    "id": "518ea2c85905f500",
+    "id": "8bfc781955200902",
     "type": "split",
     "children": [
       {
-        "id": "ff4938ba1223e976",
+        "id": "23d065d10da42277",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "自然数.md",
+            "file": "进程.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "85c2735506b4a39d"
       },
       {
-        "id": "30ace5d6ddd01444",
+        "id": "db702ea60d97d798",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "自然数.md",
+            "file": "进程.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "85c2735506b4a39d"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0a4ae5fa78ee4e62",
+    "id": "3204aad8313672e0",
     "type": "split",
     "children": [
       {
-        "id": "6ebf56afe4117164",
+        "id": "160d47b45012cb93",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae0e5e36335729b",
+            "id": "2a14a8b2d9f664c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +47,7 @@
             }
           },
           {
-            "id": "8c4cd0e43d25986f",
+            "id": "fb688d36bafa483a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,23 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305
   },
   "right": {
-    "id": "84462a944a20b30c",
+    "id": "8da4470b59253ef6",
     "type": "split",
     "children": [
       {
-        "id": "fa1f0b09fae4e563",
+        "id": "7767374f4a8ec1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "19608fa6b1951fb5",
+            "id": "babf884bae30ef58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自然数.md",
+                "file": "进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +99,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff4938ba1223e976",
+  "active": "23d065d10da42277",
   "lastOpenFiles": [
-    "自然数.md",
-    "Pasted image.png",
-    "实数.md",
-    "Untitled.md",
-    "导数/Untitled.md"
+    "进程.md",
+    "操作系统/未命名/系统调用.md",
+    "操作系统/操作系统的概念.md",
+    "未命名.md",
+    "操作系统/操作系统的发展.md",
+    "特权指令.md",
+    "操作系统/未命名/未命名.md"
   ]
 }
